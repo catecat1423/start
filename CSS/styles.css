@@ -121,7 +121,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    background-color: #1bce54;
+    background-color: #89ffaf;
 }
 .column2 {
     float: left;
@@ -131,7 +131,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #1bce54;
+    background-color: #89ffaf;
 }
 .column3 {
     float: left;
@@ -141,7 +141,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #1bce54;
+    background-color: #89ffaf;
 }
 .column4 {
     float: left;
@@ -151,7 +151,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #1bce54;
+    background-color: #89ffaf;
 }
 .row:after {
     content: "";
