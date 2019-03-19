@@ -9,24 +9,24 @@ body{
 /* Text Effects */
 .title-text{
     font-size: 48px;
-    color: maroon;
+    color: #1bce54;
     text-align: center;
     font-family: 'Oswald';
 }
 .center-underline-title{
     text-align: center;
     text-decoration: underline;
-    color: #ff00cc;
+    color: #1bce54;
     font-family: Oswald;
 }
 .maroon{
-    color: #ff00cc;
+    color: #1bce54;
 }
 .center-link{
     text-align: center;
 }
 a{
-  color: maroon;
+  color: #1bce54;
   font-family: 'Josefin Sans';
 }
 
@@ -121,7 +121,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    background-color: #aaa;
+    background-color: #1bce54;
 }
 .column2 {
     float: left;
@@ -131,7 +131,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #aaa;
+    background-color: #1bce54;
 }
 .column3 {
     float: left;
@@ -141,7 +141,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #aaa;
+    background-color: #1bce54;
 }
 .column4 {
     float: left;
@@ -151,7 +151,7 @@ th, td{
     border-style: solid;
     border-color: black;
     border-width: 2px; 
-    background-color: #aaa;
+    background-color: #1bce54;
 }
 .row:after {
     content: "";
@@ -191,7 +191,7 @@ th, td{
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #660000;
+    background-color: #ff00cc;
     color: white;
     margin: 0 auto
 }
