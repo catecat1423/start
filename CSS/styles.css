@@ -1,12 +1,12 @@
-/* Main stylesheet for "joemcrainbow.github.io/start" */
+/* Main CSS code */
 
-/* Code for the entire site, primarily background effects */
+
+/* Text effects */
+
 body{
     background-color: #ff00cc;
     font-family: 'Josefin Sans';
 }
-
-/* Text Effects */
 .title-text{
     font-size: 48px;
     color: #1bce54;
@@ -30,7 +30,7 @@ a{
   font-family: 'Josefin Sans';
 }
 
-/* Borders, Boxes, and Tables */
+/* Boxes, Borders, and Tables */
 
 .dirrow{
     padding: 2%;  
@@ -93,7 +93,7 @@ th, td{
     background-color: antiquewhite;
 }
 
-/* Image Properties */
+/* Image effects */
 
 .gitlogo{
     width: 20px;
@@ -104,11 +104,11 @@ th, td{
     height: 100px;
 }
 
-/* 
-   W3schools Code for Home Page: 
-   DO NOT ADD CSS PAST THIS POINT.
-   Credit for this code: w3schools
-*/
+
+/* CSS gained from w3schools. DO NOT ADD CODE PAST THIS POINT! */
+
+
+/* Homepage Columns */
 
 * {
     box-sizing: border-box;
@@ -158,7 +158,9 @@ th, td{
     display: table;
     clear: both;
 }
-/* Add a black background color to the top navigation */
+
+/* Navigation bar */
+
 .topnav {
     position: fixed;
     top: 0px;
@@ -169,8 +171,6 @@ th, td{
     background-color: #333;
     margin: 0px;
 }
-
-/* Style the links inside the navigation bar */
 .topnav a {
     float: left;
     text-align: center;
@@ -181,15 +181,11 @@ th, td{
     color: white;
     background-color: gray;
 }
-
-/* Change the color of links on hover */
 .topnav a:hover {
     background-color: antiquewhite;
     color: black;
     height: 0 auto;
 }
-
-/* Add a color to the active/current link */
 .topnav a.active {
     background-color: #ff00cc;
     color: white;
