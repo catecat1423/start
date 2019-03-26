@@ -46,7 +46,7 @@ a{
     border-style: dashed;
     border-width: 15px;
     border-radius: 15px;
-    background-color: #aaa;
+    background-color: white;
 }
 .quick-links{
     margin: 10px;
@@ -55,7 +55,7 @@ a{
     border-color: black;
     border-width: 15px;
     border-radius: 15px;
-    background-color: #aaa;
+    background-color: white;
 }
 .quick-links-noback{
     margin: 5%;
@@ -74,7 +74,7 @@ a{
     border-color: black;
     border-width: 15px;
     border-radius: 15px;
-    background-color: #aaa;
+    background-color: white;
     text-align: center;
 }
 table.center{
